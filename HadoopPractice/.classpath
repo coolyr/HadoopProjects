@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-common-2.6.0.jar" sourcepath="F:/SRC/hadoop-2.6.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-hdfs-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-app-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-core-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-hs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-hs-plugins-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-jobclient-2.6.0-tests.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-jobclient-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-client-shuffle-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-mapreduce-examples-2.6.0.jar" sourcepath="F:/SRC/hadoop-2.6.0-src.zip"/>
+	<classpathentry kind="lib" path="lib/hadoop-nfs-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-api-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-applications-distributedshell-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-applications-unmanaged-am-launcher-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-client-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-registry-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-applicationhistoryservice-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-common-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-nodemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-resourcemanager-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-tests-2.6.0.jar"/>
+	<classpathentry kind="lib" path="lib/hadoop-yarn-server-web-proxy-2.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

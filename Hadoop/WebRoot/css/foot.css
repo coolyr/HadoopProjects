@@ -1,0 +1,152 @@
+.foot {
+	width: 1000px;
+	margin: 0 auto;
+	height: 150px;
+	background-color: #3B5888;
+	border-top: 2px solid #1A4B81;
+}
+
+.foot_left {
+	float: left;
+	width: 340px;
+	height: 150px;
+	/*background-color: pink;*/
+}
+
+.foot_center {
+	float: left;
+	width: 318px;
+	height: 150px;
+	/*background-color: gray;*/
+	text-align: center;
+	border-left: 1px solid #1A4B81;
+}
+
+.foot_right {
+	float: left;
+	width: 340px;
+	height: 150px;
+	border-left: 1px solid #1A4B81;
+	/*background-color: pink;*/
+}
+
+.foot_bottom {
+	float: left;
+	width: 1000px;
+	height: 20px;
+	text-align:center;
+	background-color: #3B5888;
+	border-top: 2px solid #1A4B81;
+}
+
+.foot_left_left {
+	float: left;
+	width: 170px;
+	height: 150px;
+	text-align: center;
+	/*background-color: green;*/
+}
+
+.foot_left_right {
+	float: left;
+	width: 170px;
+	height: 150px;
+	text-align: center;
+	/*background-color: pink;*/
+}
+
+.foot_left_left_navi {
+	float: right;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+
+.foot_left_right_navi {
+	float: left;
+	margin-top: 25px;
+	margin-right: 10px;
+}
+
+.foot_left_left_navi li {
+	color: #C3CDDF;
+	list-style: none;
+	margin-left: 12px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.foot_left_right_navi li {
+	color: #C3CDDF;
+	list-style: none;
+	margin-left: 12px;
+	height: 25px;
+	line-height: 25px;
+	text-align: center;
+}
+
+.foot_right_left {
+	float: left;
+	width: 110px;
+	height: 150px;
+	text-align: center;
+	/*background-color: green;*/
+}
+
+.foot_right_center {
+	float: left;
+	width: 110px;
+	height: 150px;
+	text-align: center;
+	/*background-color: green;*/
+}
+
+.foot_right_right {
+	float: left;
+	width: 115px;
+	height: 150px;
+	text-align: center;
+	/*background-color: green;*/
+}
+
+.foot_right_left_navi {
+	float: right;
+}
+
+.foot_right_left_navi li {
+	list-style: none;
+	text-align: center;
+}
+
+.foot_right_center_navi li {
+	list-style: none;
+	text-align: center;
+}
+
+.foot_right_right_navi {
+	float: left;
+}
+
+.foot_right_right_navi li {
+	list-style: none;
+	text-align: center;
+}
+
+
+
+.foot_bottom_copyright {
+	height: 20px;
+	float: left;
+	margin-left:75px;
+	/*background-color:pink;*/
+}
+
+.foot_bottom_copyright li {
+	float: left;
+	color: #C3CDDF;
+	list-style: none;
+	margin-left: 10px;
+	height: 20px;
+	line-height: 20px;
+	text-align: center;
+}

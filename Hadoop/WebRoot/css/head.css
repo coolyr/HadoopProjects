@@ -1,0 +1,84 @@
+.head {
+	height: 100px;
+	width: 1000px;
+	background-color: #3B5888;
+	margin: 0 auto;
+	border-bottom: 2px solid #1A4B81;
+}
+
+.head_top {
+	width: 1000px;
+	/*background-color: gray;*/
+	height: 35px;
+}
+
+.head_foot {
+	width: 1000px;
+	/*background-color: pink;*/
+	height: 65px;
+}
+
+
+.head_navi_left {
+	height: 35px;
+	float: left;
+	/*background-color:pink;*/
+}
+
+.head_navi_left li {
+	float: left;
+	color: #C3CDDF;
+	list-style: none;
+	margin-left: 10px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+}
+
+.head_navi_right {
+	height: 35px;
+	float: right;
+	/*background-color:pink;*/
+}
+
+.head_navi_right li {
+	float: left;
+	color: #C3CDDF;
+	list-style: none;
+	margin-right: 10px;
+	height: 35px;
+	line-height: 35px;
+	text-align: center;
+}
+
+.head_foot .pkulogo_white {
+	width: 170px;
+	float: left;
+	margin-top: 7px;
+	margin-left: 5px;
+}
+
+.title_pic {
+	width: 190px;
+	float: left;
+	margin-top: 7px;
+	margin-left: 220px;
+	border-radius:15px;
+}
+
+.head_foot_navi_right {
+	height: 32px;
+	float: right;
+	margin-top: 30px;
+	/*background-color:pink;*/
+}
+
+.head_foot_navi_right li {
+	float: left;
+	color: #C3CDDF;
+	list-style: none;
+	margin-right: 10px;
+	height: 32px;
+	line-height: 32px;
+	text-align: center;
+}
